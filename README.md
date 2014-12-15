@@ -1,3 +1,3 @@
-pull-request-me
+pull-request-me!
 ===============
 Luke Bartel
